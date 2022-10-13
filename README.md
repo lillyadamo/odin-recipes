@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project Assignment
+Project One - Recipe Journal
